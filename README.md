@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunahan994&langs_count=10&theme=radical&layout=compact"/></p>
 
 <h2 align="center">About My Profile</h2>
-<p> I write code as a frontend developer, penetration tester and desktop application developer. The codes in my account consist of the codes I wrote during my projects or the tools I coded as a hobby. In addition to these, I also write writeups for challenges on some sites.</p>
+<p>     I write code as a frontend developer, penetration tester and desktop application developer. The codes in my account consist of the codes I wrote during my projects or the tools I coded as a hobby. In addition to these, I also write writeups for challenges on some sites.</p>
 
 
 <h2 align="center">My social accounts</h2>
