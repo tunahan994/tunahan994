@@ -1,6 +1,6 @@
 <h2 align="center">My Github Stats</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tunahan994&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunahan994&theme=radical&layout=compact"/></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunahan994&theme=radical&layout=compact¾langs_count=10"/></p>
 
 
 <h2 align="center">About My Profile</h2>
